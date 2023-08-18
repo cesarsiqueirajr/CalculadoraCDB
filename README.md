@@ -11,7 +11,7 @@ Este é um projeto que consiste em uma aplicação web em Angular para cálculo 
 ## Tecnologias Utilizadas
 
 - Angular para o frontend.
-- ASP.NET Core para o backend.
+- ASP.NET Core para o backend. - [.NET 6 SDK](https://dotnet.microsoft.com/pt-br/download/dotnet/6.0)
 - Testes unitários utilizando Xunit.
 
 ## Como Executar o Projeto
